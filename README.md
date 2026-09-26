@@ -7,7 +7,7 @@
 ### 🔬
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/f9b5c8d4f5cb45d69dd0f997918cca9a/3d12a34a5126c762-e9/s540x810/2fc9ab7daf6e87abf23f6e9ae0469d5efbe3737e.gifv" alt="GIF Animado" width="60%"/>
+  <img src="[Uploading archon-story-quest-il-dottore.htm…]()" alt="GIF Animado" width="60%"/>
 </div>
 
 ---
