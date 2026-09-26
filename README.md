@@ -7,7 +7,7 @@
 ### 🔬
 
 <div align="center">
-  <img src="[Uploading archon-story-quest-il-dottore.htm…]()" alt="GIF Animado" width="60%"/>
+  <img src="[[Uploading archon-story-quest-il-dottore.htm…]()](https://www.tumblr.com/koutawoo/696618662111674368/archon-story-quest-il-dottore)" alt="GIF Animado" width="60%"/>
 </div>
 
 ---
