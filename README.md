@@ -7,7 +7,7 @@
 ### 🔬
 
 <div align="center">
-  ![Gif Animado](.assets/dottore.gif)
+  ![](.assets/dottore.gif)
   <img src="./assets/dottore.gif" alt="GIF Animado" width="60%"/>
 </div>
 
