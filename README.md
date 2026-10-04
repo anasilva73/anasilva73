@@ -1,8 +1,9 @@
 # 𝐀𝐧𝐚 𝐒𝐢𝐥𝐯𝐚
 
 ---
-<img src="https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=_hexcode#2E5A88&height=100&section=header&text=#perfil%20render&fontSize=70)
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=5B1A3A&height=100&section=header&text=Il%20Dottore&fontSize=50&fontColor=E6D8DF)
+
 
 ### 🧪*Dottore*
 
