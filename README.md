@@ -1,13 +1,14 @@
-# Ana Silva
+# 𝐀𝐧𝐚 𝐒𝐢𝐥𝐯𝐚
 
 ### 🧪*Dottore*
+> [!NOTE]
+> Este texto terá um destaque azul elegante.
 *"A maioria das pessoas está muito ansiosa pelo sucesso, muito focada no objetivo final. Elas esquecem que o processo experimental em si é tão importante."*
 ---
 
 ### 🔬
 
-![Uploading tumblr_215bea09f9b5620b769a5a5fe19a6935_82eed4d1_540.webp…]()
-
+<img width="540" height="240" alt="tumblr_215bea09f9b5620b769a5a5fe19a6935_82eed4d1_540" src="https://github.com/user-attachments/assets/f444611c-b03f-463d-a240-729f70cf4ffd" />
 
 ---
 
