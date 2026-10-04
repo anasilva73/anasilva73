@@ -1,9 +1,8 @@
 # 𝐀𝐧𝐚 𝐒𝐢𝐥𝐯𝐚
 
 ### 🧪*Dottore*
-> [!NOTE]
-> Este texto terá um destaque azul elegante.
-*"A maioria das pessoas está muito ansiosa pelo sucesso, muito focada no objetivo final. Elas esquecem que o processo experimental em si é tão importante."*
+> [!### 🧪*Dottore*]
+> *"A maioria das pessoas está muito ansiosa pelo sucesso, muito focada no objetivo final. Elas esquecem que o processo experimental em si é tão importante."*
 ---
 
 ### 🔬
