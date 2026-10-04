@@ -1,6 +1,6 @@
 # 𝐀𝐧𝐚 𝐒𝐢𝐥𝐯𝐚
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=_hexcode:#2E5A88&height=100&section=header&text=#perfil%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=_hexcode#2E5A88&height=100&section=header&text=#perfil%20render&fontSize=70)
 
 ### 🧪*Dottore*
 
