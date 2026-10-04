@@ -2,7 +2,9 @@
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=2E5A88&height=100&section=header&text=Perfil%20Render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=2E5A88&height=100&section=header&text=Il%20Dottore&fontSize=50&fontColor=E6D8DF)
+
+---
 
 ### 🧪*Dottore*
 
